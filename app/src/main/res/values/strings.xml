@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pequenos exemplos</string>
+    <string name="titulo">POO</string>
+    <string name="musica">Iniciar</string>
+    <string name="buzina">Buzina</string>
+    <string name="dialogo">Diálogo</string>
+    <string name="imagem">Imagem</string>
+    <string name="parar">Parar</string>
+    <string name="titulo_dialogo">Atenção</string>
+    <string name="mensagem">Deseja continuar?</string>
+    <string name="ok">SIM</string>
+    <string name="cancel">NÃO</string>
+    <string name="musicas">Escolha uma música</string>
+    <string name="escolha_musica">Escolha uma música</string>
+</resources>
